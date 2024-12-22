@@ -19,14 +19,19 @@ linkedin: plnguyen2908
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
-short_bio: >-
+short_bio: <div>
   <p>
-    Bio to be added
+  Hi, my name is Le Thien Phuc Nguyen, and I am a third-year undergraduate student in the Computer Sciences Department
+  at the University of Wisconsin-Madison, advised by Professor <a href="https://pages.cs.wisc.edu/~yongjaelee/"> Yong Jae Lee </a>.
+  Fortunately, I have a chance to work with my mentor <a href="https://www.zhuoranyu.com/">Zhuoran Yu</a>, a PhD student from Professor Lee's lab.
   </p>
-
+  <p>
+  My research interests focus on multimodal models, with a particular emphasis on video, audio, image, and large language models (LLMs).
+  </p>
+  </div>
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
   # - name: University of Wisconsin - Madison
