@@ -1,4 +1,4 @@
----
+<!-- ---
 show: true
 width: 4
 date: 2020-01-12 00:01:00 +0800
@@ -10,4 +10,4 @@ date: 2020-01-12 00:01:00 +0800
     <p>
         If you want to disable this showcase page, you can hide it from the navigation bar by removing the showcase in <code>data/navigation.yml</code>
     </p>
-</div>
+</div> -->

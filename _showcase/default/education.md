@@ -1,8 +1,9 @@
 ---
-show: false
+show: true
 width: 6
-date: 2020-01-12 00:01:00 +0800
+date: 2022-01-12 00:01:00 +0800
 ---
+
 <div class="m-4">
     <h5>Education</h5>
     <ul class="list-unstyled mb-1">
