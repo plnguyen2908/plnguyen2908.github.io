@@ -8,7 +8,7 @@ pub: "arXiv"
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date: "2024"
 
-cover: /assets/images/covers/cover3.jpg
+cover: /assets/images/covers/LASER_model_architecture.png
 authors:
   - admin*
   - Zhuoran Yu*
