@@ -15,6 +15,7 @@ authors:
   - Yong Jae Lee
 links:
   Project Page: https://plnguyen2908.github.io/LASER-ASD-project-page/
+  Paper: https://arxiv.org/abs/2501.11899
   Code: https://github.com/plnguyen2908/LASER_ASD
 #   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
