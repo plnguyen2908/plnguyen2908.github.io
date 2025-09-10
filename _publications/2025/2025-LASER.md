@@ -1,6 +1,6 @@
 ---
 title: "LASER: Lip Landmark Assisted Speaker Detection for Robustness"
-date: 2024-11-14 00:01:00 +0800
+date: 2025-1-14 00:01:00 +0800
 selected: true
 pub: "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
 # pub_pre:        "Submitted to "
