@@ -17,5 +17,6 @@ links:
   Project Page: https://plnguyen2908.github.io/LASER-ASD-project-page/
   Paper: https://arxiv.org/abs/2501.11899
   Code: https://github.com/plnguyen2908/LASER_ASD
+  data: https://huggingface.co/datasets/plnguyen2908/LASER-bench/tree/main
 #   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
