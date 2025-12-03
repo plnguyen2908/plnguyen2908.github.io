@@ -2,7 +2,7 @@
 title: "See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models"
 date: 2025-12-01 00:01:00 +0800
 selected: true
-pub: "ArXiv"
+pub: "arXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
