@@ -4,8 +4,8 @@ date: 2025-1-14 00:01:00 +0800
 selected: true
 pub: "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_post:       'Oral'
+pub_last:  '<span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date: "2026"
 
 cover: /assets/images/covers/LASER_model_architecture.png
