@@ -2,11 +2,11 @@
 title: "See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models"
 date: 2025-12-01 00:01:00 +0800
 selected: true
-pub: "arXiv"
+pub: "Findings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date: "2025"
+pub_date: "2026 (CVPR Findings)"
 
 cover: /assets/images/covers/av-speakerbench.png
 authors:
