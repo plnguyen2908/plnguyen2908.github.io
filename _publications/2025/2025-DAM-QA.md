@@ -2,7 +2,7 @@
 title: "Describe Anything Model for Visual Question Answering on Text-rich Images"
 date: 2025-07-16 00:01:00 +0800
 selected: true
-pub: "VisionDocs Workshop @ the International Conference on Computer Vision (ICCV)"
+pub: "VisionDocs Workshop @ the International Conference on Computer Vision (ICCV), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
