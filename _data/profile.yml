@@ -3,13 +3,13 @@ secondary_name: ""
 navbar_name: "Le Thien Phuc Nguyen"
 
 positions:
-  - logo: /assets/images/badges/uwmad.jpeg # Logo is optional
-    name: Affiliated with University of Wisconsin - Madison
-  - name: Undergraduate Researcher
+  - logo: /assets/images/badges/unc-ch.avif # Logo is optional
+    name: Affiliated with the University of North Carolina at Chapel Hill
+  - name: CS PhD Student
 
 email: "plnguyen6@wisc.edu"
 # cv_link: link-to-your-cv-file
-# gscholar: xFmQpf4AAAAJ # This is an example, replace it with your own Google Scholar ID
+gscholar: ywYZkw8AAAAJ # This is an example, replace it with your own Google Scholar ID
 github: plnguyen2908
 # twitter: your_twitter_id # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -21,9 +21,18 @@ linkedin: plnguyen2908
 short_bio_text_justify: false
 short_bio: <div>
   <p>
-  Hi, my name is Le Thien Phuc Nguyen. </p> <p> I am from Vietnam, and I am a senior undergraduate student at the University of Wisconsin-Madison, advised by Professor <a href="https://pages.cs.wisc.edu/~yongjaelee/"> Yong Jae Lee </a>.
-  Fortunately, I have a chance to work with my mentor <a href="https://www.zhuoranyu.com/">Zhuoran Yu</a>, a PhD student from Professor Lee's lab.
+  Hi, my name is Le Thien Phuc Nguyen. </p> <p> I am from Vietnam, and I am a CS PhD student at the University of North Carolina at Chapel Hill, advised by Professor <a href="https://jason718.github.io/"> Zhongzheng (Jason) Ren </a>.
   </p>
+
+  <p>
+  Previously, I was an Undergraduate Researcher at Wisconsin AI Vision Lab (WAIV), University of Wisconsin-Madison, working with Professor <a href="https://pages.cs.wisc.edu/~yongjaelee/"> Yong Jae Lee </a>. 
+  At WAIV, I am fortunate to work with my mentor who taught me a lot, <a href="https://www.zhuoranyu.com/"> Dr. Zhuoran Yu </a>.
+  </p>
+
+  <p>
+  I received my B.S. in Computer Science, Data Science, Math, and Statistics (4 majors) from the University of Wisconsin-Madison in 2026.
+  </p>
+  
   <p>
   My research interests focus on multimodal models, with a particular emphasis on video, audio, image, and large language models (LLMs).
   </p>
@@ -42,7 +51,11 @@ education:
   - name: University of Wisconsin - Madison
     logo: /assets/images/badges/uwmad.jpeg
     position: B.S. in Computer Science, Data Science, Math, and Statistics
-    date: Sep. 2022 - present
+    date: Sep. 2022 - May. 2026
+  - name: University of North Carolina at Chapel Hill
+    logo: /assets/images/badges/unc-ch.avif
+    position: Ph.D. Student
+    date: Aug. 2026 - present
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
@@ -50,6 +63,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+  - name: WACV 2026 Oral Presentation
+    date: 2026
   - name: Gold medal in the ICPC North Central North America (NCNA)
     date: 2023
   - name: Silver medal in the ICPC North Central North America (NCNA)
