@@ -21,12 +21,13 @@ linkedin: plnguyen2908
 short_bio_text_justify: false
 short_bio: <div>
   <p>
-  Hi, my name is Le Thien Phuc Nguyen. </p> <p> I am from Vietnam, and I am a CS PhD student at the University of North Carolina at Chapel Hill, advised by Professor <a href="https://jason718.github.io/"> Zhongzheng (Jason) Ren </a>.
+  Hi, my name is Le Thien Phuc Nguyen. </p> <p> I am from Vietnam, and I am currently a CS PhD student at the University of North Carolina at Chapel Hill, advised by Professor <a href="https://jason718.github.io/"> Zhongzheng (Jason) Ren </a>.
+  Also, I am honored to be co-advised by Professor <a href="https://pages.cs.wisc.edu/~yongjaelee/"> Yong Jae Lee </a> at the University of Wisconsin - Madison.  
   </p>
 
   <p>
   Previously, I was an Undergraduate Researcher at Wisconsin AI Vision Lab (WAIV), University of Wisconsin-Madison, working with Professor <a href="https://pages.cs.wisc.edu/~yongjaelee/"> Yong Jae Lee </a>. 
-  At WAIV, I am fortunate to work with my mentor <a href="https://www.zhuoranyu.com/"> Dr. Zhuoran Yu </a> who taught me a lot.
+  At WAIV, I am fortunate to work with my mentor, <a href="https://www.zhuoranyu.com/"> Dr. Zhuoran Yu </a>, who taught me a lot.
   </p>
 
   <p>
@@ -48,15 +49,16 @@ education:
   #     Department of Electrical Engineering and Computer Science <br/>
   #     Ph.D. Student
   #   date: Sep. 2024 - present
+
+  - name: University of North Carolina at Chapel Hill
+    logo: /assets/images/badges/unc-ch.avif
+    position: CS Ph.D. Student
+    date: Aug. 2026 - present
+# experience:
   - name: University of Wisconsin - Madison
     logo: /assets/images/badges/uwmad.jpeg
     position: B.S. in Computer Science, Data Science, Math, and Statistics
     date: Sep. 2022 - May. 2026
-  - name: University of North Carolina at Chapel Hill
-    logo: /assets/images/badges/unc-ch.avif
-    position: Ph.D. Student
-    date: Aug. 2026 - present
-# experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
