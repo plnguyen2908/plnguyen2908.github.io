@@ -14,7 +14,7 @@ authors:
   - admin
   - Jaden Park
   - Xinyi Gu
-  - Zuxue He
+  - Zexue He
   - Soochahn Lee
   - Rogerio Feris
   - Yong Jae Lee
