@@ -2,11 +2,11 @@
 title: "See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models"
 date: 2025-12-01 00:01:00 +0800
 selected: true
-pub: "Findings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Findings), "
+pub: "Findings of The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Findings), 2026"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
+pub_post: '<br>Workshop on Emerging Directions in Data for Multimodal Foundation Models (DataMFM) @ CVPR 2026 <span class="badge badge-pill badge-publication badge-success">Oral</span>  <br>Interactive Physical AI Workshop (IPA) @ CVPR 2026'
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date: "2026"
+pub_date: ""
 
 cover: /assets/images/covers/av-speakerbench.png
 authors:
