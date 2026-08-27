@@ -8,7 +8,7 @@ pub: "Proceedings of the International Conference on Machine Learning (ICML),"
 # pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date: "2026"
 
-cover: "/assets/images/covers/coming-soon-web-banner.webp"
+cover: "/assets/images/covers/dochop.png"
 authors:
   - Zhuoran Yu
   - admin
@@ -20,4 +20,7 @@ authors:
   - Yong Jae Lee
 links:
   Project Page: "https://www.zhuoranyu.com/dochop-page/#"
+  Paper: "https://openreview.net/pdf?id=PQFkScoGqz"
+  Code: "https://github.com/ZhuoranYu/dochop-vlmevalkit"
+  Dataset: "https://huggingface.co/datasets/zhuoranyu336/dochop"
 ---
