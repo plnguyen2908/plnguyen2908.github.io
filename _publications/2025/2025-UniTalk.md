@@ -1,12 +1,13 @@
 ---
-title: "UniTalk: Towards Universal Active Speaker Detection in Real World Scenarios"
-date: 2025-05-16 00:01:00 +0800
+title: "Revisiting Active Speaker Detection: An In-the-Wild Benchmark for Generalization and Robustness"
+# Interspeech 2026 acceptance notification date (https://isca-speech.org/ISCA-Presidents-Message).
+date: 2026-06-05
 selected: true
-pub: "arXiv, "
+pub: "Interspeech, "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last: ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date: "2025"
+pub_last: '[Long Track] <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+pub_date: "2026"
 
 cover: /assets/images/covers/UniTalk.png
 authors:

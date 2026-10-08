@@ -21,7 +21,12 @@ navbar_title: Home
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% assign pubs_by_year = site.publications | where: "selected", true | group_by: "pub_date" | sort: "name" | reverse %}
+    {% assign pubs = "" | split: "," %}
+    {% for year in pubs_by_year %}
+        {% assign year_papers = year.items | sort: "date" | reverse %}
+        {% assign pubs = pubs | concat: year_papers %}
+    {% endfor %}
     {% 
         include widgets/publication_card.html 
         publications=pubs
