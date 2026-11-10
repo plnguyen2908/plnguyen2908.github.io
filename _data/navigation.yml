@@ -7,3 +7,5 @@ pages:
     url: /publications
   - name: Showcase
     url: /showcase
+  - name: 3D Vision
+    url: /3d-vision/
